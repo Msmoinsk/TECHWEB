@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.head-text {
+    filter: brightness(200%) !important;
+    font-family:"Audiowide", sans-serif;
+    position: relative;
+    font-weight: bolder;
+}
+
+.bgwrapper{
+    background: url(../img/2k21_22/technovagig\(2\).gif);
+    /* filter: brightness(70%); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bg-t {
+    background: transparent !important;
+}
+
+.bright {
+    filter: brightness(200%) !important;
+}
+
+.logo_img{
+    position: relative;
+    top: 20px;
+    filter: brightness(100%);
+    /* height: 500px; */
+
+}
+
+.team_img{
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 786px) {
+    .team_img{
+        height: 100%;
+        width: 100%;
+    }
+}
+
+.bg-about {
+    background-image: url('../img/team/Tech-NOVA_2K19__20200418_122134-removebg-preview.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+.grad-bg {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,255,255,255), rgba(255,0,0,0))
+}

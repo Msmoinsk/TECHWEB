@@ -1,0 +1,161 @@
+.codbg{
+    background-image: url(../../img/call_of_duty.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.valorantbg{
+    background-image: url(../../img/Valorant.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 100%;
+}
+
+@media only screen and (max-width: 786px) {
+    .valorantbg {
+        height: 150px;
+    }
+}
+
+.livalorant {
+    list-style: none;
+}
+
+.freefirebg{
+    background-image: url(../../img/freefire.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+.amongusbg{
+    background-image: url(../../img/Among_US.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+.webbg{
+    background-image: url(../../img/Web_page_developement.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+
+.codingbg{
+    background-image: url(../../img/Coding_Contest.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+.quizbg{
+    background-image: url(../../img/Quiz.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+.debbg{
+    background-image: url(../../img/Debugging.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+@media only screen and (max-width: 786px) {
+    .codbg {
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+    .quizbg {
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+    .debbg {
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+    .freefirebg {
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+    .codingbg {
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+    .amongusbg {
+        height: 150px;
+    }
+}
+
+.bgmibg{
+    background-image: url(../../img/bgmi.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+
+.standupcomedybg{
+    background-image: url(../../img/standupcomedy.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+
+.webinarbg{
+    background-image: url(../../img/webinar.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+
+@media only screen and (max-width: 786px) {
+    .bgmibg {
+        height: 150px;
+    }
+    .standupcomedybg {
+        height: 150px;
+    }
+    .webinarbg {
+        height: 150px;
+    }
+    .clashRoyalebg {
+        height: 150px;
+    }
+    .e-chessbg {
+        height: 150px;
+    }
+}
+
+.clashRoyalebg {
+    background-image: url(../../img/clashRoyale.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
+
+.e-chessbg {
+    background-image: url(../../img/chess.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100%;
+}
