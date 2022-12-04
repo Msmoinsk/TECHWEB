@@ -1,9 +1,10 @@
 1) Web Design
 2) Debugging
 3) Quiz
-5) Webinar
-6) Call of Duty
-7) Valorant
-8) CS:GO
-9) Among US
-10)Coding 
+4) Webinar
+5) Call of Duty
+6) Valorant
+7) CS:GO
+8) Among US
+9)Coding 
+
